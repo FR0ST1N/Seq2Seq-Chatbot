@@ -1,0 +1,13 @@
+{
+   "triggers": [
+	
+      {
+         "id":"_trigger1",
+         "keywords": "methods,email"
+      },
+      {
+         "id":"_trigger2",
+         "keywords": "nope,test"
+      }
+   ]
+}

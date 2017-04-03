@@ -1,0 +1,15 @@
+hello
+hi
+hi
+hello
+my internet is not working
+are you using wired or wireless network
+i am using wired network
+verify that the network cable is properly connected
+the cable is connected
+try a different web browser
+it is not working
+what is not working
+it is not working in different web browser
+i will send other methods as email _trigger1
+
