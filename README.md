@@ -44,3 +44,8 @@ If you are training a closed domain chatbot then you can use the [trigger.py][3]
 [8]: https://github.com/FR0ST1N/Seq2Seq-Chatbot/blob/master/debug.py
 [9]: https://arxiv.org/abs/1506.05869
 [10]: https://www.tensorflow.org/tutorials/seq2seq
+
+## Licenses
+
+* [Seq2Seq-Chatbot](https://github.com/FR0ST1N/Seq2Seq-Chatbot/blob/master/LICENSE)
+* [seq2seq](https://github.com/google/seq2seq/blob/master/LICENSE)
